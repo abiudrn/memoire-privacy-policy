@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v0.0.4
+
+feat: improve the robustness of the privacy policy
+
 ## v0.0.3
 
 feat: add privacy policy versioning
